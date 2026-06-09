@@ -8,10 +8,6 @@
   <h3>Desenvolvedor Full Stack & Fundador | Especialista em Arquitetura de Sistemas</h3>
 
   <p><i>Transformando regras de negócio complexas em ecossistemas escaláveis e de alta performance.</i></p>
-
-  <a href="LINK_DO_SEU_PORTIFOLIO_AQUI">
-    <img src="https://img.shields.io/badge/Acessar_Meu_Portfólio-2B2B2B?style=for-the-badge&logo=googlechrome&logoColor=D65324" alt="Portfolio" />
-  </a>
 </div>
 
 <br>
